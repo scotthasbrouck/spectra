@@ -1,4 +1,3 @@
----
 theme :
   name : spectra
   description: "The theme for Scott Hasbrouck's blog spectra.io"
@@ -6,6 +5,3 @@ theme :
   	name: "Scott Hasbrouck"
   	email: "scott@ginkgotree.com"
   	website: "http://spectra.io"
----
-{% include JB/setup %}
-{% include themes/spectra/default.html %}
